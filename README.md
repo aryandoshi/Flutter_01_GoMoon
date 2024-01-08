@@ -1,6 +1,7 @@
 # go_moon
 
 A new Flutter project.
+This is my first Flutter project. Basic Widgets are used to learn column and row Widgets. Learned about stateless widgets.
 
 ## Getting Started
 
